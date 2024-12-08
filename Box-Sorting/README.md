@@ -4,5 +4,12 @@ This project simulates a simple box sorting process using a conveyor belt, senso
 
 ![image](https://github.com/user-attachments/assets/91d6cae1-2527-4899-9e60-e8bb3cb5a5c4)
 
+<p align="center">
+  Letting the small boxes pass
+</p>
 
 ![image](https://github.com/user-attachments/assets/27c62268-b2a2-4946-b8eb-ad6b826ab15f)
+
+<p align="center">
+  Pushing down the big boxes
+</p>
